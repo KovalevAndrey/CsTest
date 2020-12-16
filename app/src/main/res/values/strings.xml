@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ClearScoreTest</string>
+
+    <string name="credit_score_title">Your credit score is</string>
+    <string name="credit_score_subtitle">out of</string>/string>
+    <string name="error_view_title">Reload</string>
+</resources>
